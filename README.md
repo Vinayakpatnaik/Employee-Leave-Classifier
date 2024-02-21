@@ -1,4 +1,4 @@
-# Employee-Attrition-Classifier
+# Employee-Attrition-Prediction
 ## In this project, I will analyze the data, perform exploratory data analysis (EDA), and extract valuable insights from the features. Furthermore, I will attempt to build a predictive model that can help us determine whether employees are likely to leave the company or stay based on various independent features.
 
 This dataset contains information about employees in a company, including their educational backgrounds, work history, demographics, and employment-related factors. It has provided valuable insights into the workforce.
